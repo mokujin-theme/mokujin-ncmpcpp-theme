@@ -134,8 +134,8 @@ playlist_disable_highlight_delay        = 0
 browser_display_mode                    = columns
 allow_for_physical_item_deletion        = no
 show_hidden_files_in_local_browser      = no
-browser_sort_mode                       = name
-browser_sort_format                     = {%n}{%a - }{%t}|{%f} {(%l)}
+browser_sort_mode                       = type
+browser_sort_format                     = {%n}|{%f} {(%l)}
 browser_playlist_prefix                 = $2$9
 space_add_mode                          = add_remove
 
