@@ -43,5 +43,4 @@ If you're experiencing text rendering issues, make sure the necessary font packa
 
 
 ## License
-This stuff is licensed under the GNU General Public License v3+
-
+This stuff is licensed under the GNU General Public License v3+.  See LICENSE for details.
