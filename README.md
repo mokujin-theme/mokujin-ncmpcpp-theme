@@ -15,6 +15,7 @@ Just a couple dotfiles for ncmpcpp for the Mokujin terminal palette.  There's a 
 <p><img src="screenshots/screenshot-2.png"  width="800"/></p>
 <p><img src="screenshots/screenshot-3.png"  width="800"/></p>
 </body></html>
+
 ### Light version
 <html><body>
 <p><img src="screenshots/screenshot-4.png"  width="800"/></p>
