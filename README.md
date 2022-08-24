@@ -10,18 +10,14 @@ Just a couple dotfiles for ncmpcpp for the Mokujin terminal palette.  There's a 
 
 ## Screenshots
 ### Dark version
-<html><body>
-<p><img src="screenshots/screenshot-1.png"  width="800"/></p>
-<p><img src="screenshots/screenshot-2.png"  width="800"/></p>
-<p><img src="screenshots/screenshot-3.png"  width="800"/></p>
-</body></html>
+<img src="screenshots/screenshot-1.png"  width="800"><br>
+<img src="screenshots/screenshot-2.png"  width="800"><br>
+<img src="screenshots/screenshot-3.png"  width="800"><br>
 
 ### Light version
-<html><body>
-<p><img src="screenshots/screenshot-4.png"  width="800"/></p>
-<p><img src="screenshots/screenshot-5.png"  width="800"/></p>
-<sub>wallpaper credit: Dani Pendergast (www.danipendergast.com)</sub>
-</body></html>
+<img src="screenshots/screenshot-4.png"  width="800"><br>
+<img src="screenshots/screenshot-5.png"  width="800"><br>
+<sub>wallpaper credit: Dani Pendergast (www.danipendergast.com)</sub><br>
 
 
 ## Requirements
